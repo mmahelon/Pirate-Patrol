@@ -10,7 +10,7 @@ class Menu extends Phaser.Scene {
         this.load.audio('music', './assets/the-buccaneers-haul.mp3');
         //Music: The Buccaneer's Haul by Shane Ivers - https://www.silvermansound.com
     }
-
+ 
     create() {
         //menu text configuration
         let menuConfig = {
